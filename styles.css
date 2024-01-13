@@ -5,3 +5,8 @@
     justify-content: center;
     margin-top: 40px;
 }
+
+#navitem:hover {
+    color: #1a56db;
+    transition: ease .5s;
+}
