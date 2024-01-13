@@ -1,10 +1,7 @@
-.space {
-    display: flex;
-    height: 20vh;
+.pricingCards {
+    display: flex; 
+    flex-wrap: wrap;
+    gap: 25px;
     justify-content: center;
-    align-items: center;
-}
-
-* {
-    background-color: lightblue;
+    margin-top: 40px;
 }
